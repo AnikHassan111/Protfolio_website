@@ -3,7 +3,11 @@ const MyInformation = () => {
     <div className="flex items-center my-20">
       <div className=" text-center space-y-3 w-1/2 ">
         <div className="w-24 mx-auto  rounded-full bg-black  overflow-hidden h-24 bg-right">
-          <img src="/public/Crop Pic 5.jpg" className="w-full " alt="" />
+          <img
+            src="https://i.ibb.co/hWvJ74m/Crop-Pic-5.jpg"
+            className="w-full "
+            alt=""
+          />
         </div>
         <div>
           <h1 className="font-bold text-4xl">Anik Hassan</h1>

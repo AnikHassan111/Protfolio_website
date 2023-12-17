@@ -13,7 +13,10 @@ const MyProject = () => {
         {/* Project 2 */}
         <div className="card card-compact w-96 bg-base-100 shadow-xl">
           <figure>
-            <img src={"/public/Project Img/HotelWebsite.PNG"} alt="Shoes" />
+            <img
+              src={"https://i.ibb.co/XFvy6cn/Hotel-Website.png"}
+              alt="Shoes"
+            />
           </figure>
           <div className="card-body">
             <h2 className="card-title text-3xl text-[#3636FF]">Luxury Hotel</h2>
